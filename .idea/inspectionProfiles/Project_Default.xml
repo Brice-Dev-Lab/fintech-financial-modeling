@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="black" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="fastapi" />
+          <option value="flake8" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="isort" />
+          <option value="mccabe" />
+          <option value="mypy-extensions" />
+          <option value="packaging" />
+          <option value="pathspec" />
+          <option value="platformdirs" />
+          <option value="pluggy" />
+          <option value="pycodestyle" />
+          <option value="pydantic" />
+          <option value="pydantic-core" />
+          <option value="pyflakes" />
+          <option value="pygments" />
+          <option value="pytest" />
+          <option value="pytokens" />
+          <option value="requests" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="typing-extensions" />
+          <option value="typing-inspection" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="pydantic-settings" />
+          <option value="python-dotenv" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
